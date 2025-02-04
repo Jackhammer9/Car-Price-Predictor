@@ -6,20 +6,6 @@ A machine learning project that predicts used car prices based on various featur
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/arnav-bajaj/)
 
---------------------------------------------------------------------------------
-Table of Contents
------------------
-1. Overview  
-2. Dataset  
-3. Project Structure  
-4. Getting Started  
-5. EDA (Exploratory Data Analysis)  
-6. Modeling Approach  
-7. Results  
-8. How to Use  
-9. Future Improvements  
-10. Contributing  
-11. License
 
 --------------------------------------------------------------------------------
 Overview
