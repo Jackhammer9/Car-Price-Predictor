@@ -79,7 +79,6 @@ Getting Started
    ```
 
 5. Download the Dataset
-   If not included, download the dataset from Kaggle:
    https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
    and place it in the data/ folder (e.g., Car-Data.csv).
 
@@ -95,7 +94,7 @@ During EDA, we examine:
 --------------------------------------------------------------------------------
 Modeling Approach
 -----------------
-We tried multiple algorithms to find the best performer:
+I tried multiple algorithms to find the best performer:
 
 1. Linear Regression
    - Pros: Interpretable, fast to train
